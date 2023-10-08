@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dLjVZobPPJPRrWM6+wCF2KrX5F86CZsiHuoLH3JXwglOSpApNtaaC2JfPGUA+jHuPkYg44ufL/BD4tPm9SJrog==",
+  "dgSpecHash": "2OJ2sSE++8WW1WJQ6d8bpjopGscOKfiso0TC7iEO1qCYAtmsYdGd5nkvCOjcWmQIbgPiTSoFm5dQ2m7RTYQkRw==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio\\RegistrationAndLogin\\RegistrationAndLogin\\RegistrationAndLogin.csproj",
+  "projectFilePath": "D:\\Repositories\\RegistrationAnd Login\\RegistrationAndLogin\\RegistrationAndLogin\\RegistrationAndLogin\\RegistrationAndLogin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Darria\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Darria\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

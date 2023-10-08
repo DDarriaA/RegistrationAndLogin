@@ -476,11 +476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio\\RegistrationAndLogin\\RegistrationAndLogin\\RegistrationAndLogin.csproj",
+      "projectUniqueName": "D:\\Repositories\\RegistrationAnd Login\\RegistrationAndLogin\\RegistrationAndLogin\\RegistrationAndLogin\\RegistrationAndLogin.csproj",
       "projectName": "RegistrationAndLogin",
-      "projectPath": "D:\\Visual Studio\\RegistrationAndLogin\\RegistrationAndLogin\\RegistrationAndLogin.csproj",
+      "projectPath": "D:\\Repositories\\RegistrationAnd Login\\RegistrationAndLogin\\RegistrationAndLogin\\RegistrationAndLogin\\RegistrationAndLogin.csproj",
       "packagesPath": "C:\\Users\\Darria\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio\\RegistrationAndLogin\\RegistrationAndLogin\\obj\\",
+      "outputPath": "D:\\Repositories\\RegistrationAnd Login\\RegistrationAndLogin\\RegistrationAndLogin\\RegistrationAndLogin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
